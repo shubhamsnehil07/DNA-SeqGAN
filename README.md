@@ -8,7 +8,7 @@ This project implements a **Sequence Generative Adversarial Network (SeqGAN)** t
 - **One-Hot Encoding:** Maps nucleotides (A, C, G, T) into numerical tensors.
 
 ## Getting Started
-1. Clone the repo: `git clone https://github.com/your-username/DNA-SeqGAN.git`
+1. Clone the repo: `git clone https://github.com/shubhamsnehil07/DNA-SeqGAN.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Place your data in `data/data.csv`.
 4. Run training: `python train.py`
